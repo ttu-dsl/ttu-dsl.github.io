@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TTU Data Science League - Notes</title><link href="http://ttu-dsl.com/" rel="alternate"></link><link href="http://ttu-dsl.com/feeds/notes.atom.xml" rel="self"></link><id>http://ttu-dsl.com/</id><updated>2019-02-26T00:00:00-06:00</updated><entry><title>Kaggle Competitions</title><link href="http://ttu-dsl.com/kaggle-competitions.html" rel="alternate"></link><published>2019-02-26T00:00:00-06:00</published><updated>2019-02-26T00:00:00-06:00</updated><author><name>Nathan Martindale</name></author><id>tag:ttu-dsl.com,2019-02-26:/kaggle-competitions.html</id><summary type="html">&lt;p&gt;As of our meeting today, we have officially started our inner-club kaggle
+competitions. Everyone is invited to join in!&lt;/p&gt;
+&lt;p&gt;There are two ongoing competitions: &lt;strong&gt;project 0&lt;/strong&gt; - &lt;a href="https://www.kaggle.com/c/titanic"&gt;titanic&lt;/a&gt;
+and &lt;strong&gt;project 1&lt;/strong&gt; - &lt;a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques"&gt;house
+prices&lt;/a&gt;.
+Project 0 is intended for anyone new to data science. It's a relatively simple sample kaggle
+competition, so …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As of our meeting today, we have officially started our inner-club kaggle
+competitions. Everyone is invited to join in!&lt;/p&gt;
+&lt;p&gt;There are two ongoing competitions: &lt;strong&gt;project 0&lt;/strong&gt; - &lt;a href="https://www.kaggle.com/c/titanic"&gt;titanic&lt;/a&gt;
+and &lt;strong&gt;project 1&lt;/strong&gt; - &lt;a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques"&gt;house
+prices&lt;/a&gt;.
+Project 0 is intended for anyone new to data science. It's a relatively simple sample kaggle
+competition, so it's a good place for people to become familiar with relevant
+tools, basic DS concepts, and the procedure for participating in a kaggle
+competition. Project 1 is a little bit more difficult, and a better place to
+experiment with a wider variety of ML techniques.&lt;/p&gt;
+&lt;p&gt;For both of these competitions, we have two teams: Team Cyan and Team Orange.
+The competitions will run until our next meeting (one or two weeks after spring
+break), at which point for each competition, whichever team has the highest
+scoring submission will earn a small prize for each of its members. If you
+didn't get a chance to come to the meeting to sign up, please feel free to
+message me either on our discord server or shoot me an email at
+namartinda42@students.tntech.edu. Let me know which project you'd like to work
+on (you're absolutely allowed to work on both if you wish) and which team you
+want to be part of.&lt;/p&gt;
+&lt;p&gt;As new people join, I will add roles to your user on discord for your respective
+project(s) and team - this will give you access to private chat groups for you
+to discuss strategies, share code, and so forth. Similarly, once you're ready,
+create a kaggle account and join the respective kaggle competitions above, and
+send me your username. We will then add you to the correct kaggle team. (Orange
+teams are being managed by Katie, and cyan teams are being managed by myself.)&lt;/p&gt;
+&lt;p&gt;Feel free to message me with any questions or comments!&lt;/p&gt;
+&lt;h3&gt;Kaggle API&lt;/h3&gt;
+&lt;p&gt;During the meeting I demoed the kaggle API, which allows you to interact with
+kaggle from the commandline. This can be installed via: &lt;code&gt;pip install kaggle&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;More information can be found at &lt;a href="https://github.com/Kaggle/kaggle-api"&gt;their
+github&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>2/12/2019 Meeting Notes</title><link href="http://ttu-dsl.com/2122019-meeting-notes.html" rel="alternate"></link><published>2019-02-13T00:00:00-06:00</published><updated>2019-02-13T00:00:00-06:00</updated><author><name>Nathan Martindale</name></author><id>tag:ttu-dsl.com,2019-02-13:/2122019-meeting-notes.html</id><summary type="html">&lt;p&gt;Quick recap of what was covered at the meeting yesterday: &lt;/p&gt;
+&lt;h3&gt;Club Status&lt;/h3&gt;
+&lt;p&gt;Sadly we're unable to be an officially recognized student organization until we
+can go before the student affairs people next September. We'll still be able to
+meet in the meantime though, and pizza can be provided through the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Quick recap of what was covered at the meeting yesterday: &lt;/p&gt;
+&lt;h3&gt;Club Status&lt;/h3&gt;
+&lt;p&gt;Sadly we're unable to be an officially recognized student organization until we
+can go before the student affairs people next September. We'll still be able to
+meet in the meantime though, and pizza can be provided through the department.&lt;/p&gt;
+&lt;h3&gt;Semester Plans&lt;/h3&gt;
+&lt;p&gt;The primary focus I'm hoping to acheive this semester with DSL is on projects.
+Doing is a great way of learning, so we'll be trying to compile a list of
+projects to form teams around. Our meetings will
+hopefully consist of discussion regarding progress on those projects, techniques
+people have used, and possibly brief tutorials on things that may be useful in
+current or future projects.&lt;/p&gt;
+&lt;p&gt;There are a few different possible sources for projects. Dr. Gannod has
+mentioned potentially connecting us with an athletics team, as well as other
+people or departments who may have data they want explored. In addition, we can
+play around with kaggle competitions - who knows, maybe someday we can attempt
+an ongoing competition and submit!&lt;/p&gt;
+&lt;h3&gt;ACM Webinar&lt;/h3&gt;
+&lt;p&gt;We watched a brief portion of an ACM seminar by Andrew Ng, covering tips for
+going into a machine learning or data science oriented career. If anyone is
+interested in watching the entire seminar, it can be found
+&lt;a href="https://www.youtube.com/watch?v=4kiHsIaK9_w"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><title>Hello World!</title><link href="http://ttu-dsl.com/hello-world.html" rel="alternate"></link><published>2019-02-11T00:00:00-06:00</published><updated>2019-02-11T00:00:00-06:00</updated><author><name>Nathan Martindale</name></author><id>tag:ttu-dsl.com,2019-02-11:/hello-world.html</id><summary type="html">&lt;p&gt;Greetings to all! This is the first official post of our brand new website! This
+post is simply to detail some of the things we hope to use this website for.&lt;/p&gt;
+&lt;p&gt;As great as discord is as a means of communication, it's not a useful place to
+try to aggregate …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Greetings to all! This is the first official post of our brand new website! This
+post is simply to detail some of the things we hope to use this website for.&lt;/p&gt;
+&lt;p&gt;As great as discord is as a means of communication, it's not a useful place to
+try to aggregate interesting resources and tools related to this club. So,
+perhaps one of the most useful functions for this website will be that we intend
+to collect various data science and machine learning related resources (such
+as places to get datasets, tutorials, interesting articles, etc.) and post them
+to here, on the &lt;a href="resources.html"&gt;resources&lt;/a&gt; page. &lt;/p&gt;
+&lt;p&gt;In addition, as we start to get projects and such, this website can be a place
+to organize information regarding those projects - whether it be to showcase
+results, experiments we've tried, or just to keep more formal track of progress.&lt;/p&gt;
+&lt;p&gt;Finally, this website will be another medium of communication for the club. I
+will keep notes regarding meetings and post them here afterwards, so that anyone who
+was unable to attend will know what was discussed, and if any links were
+mentioned, those will be made generally available here. Additionally, meeting
+notices and upcoming events will (eventually) be organized onto the
+&lt;a href="schedule.html"&gt;schedule&lt;/a&gt; page.&lt;/p&gt;</content></entry></feed>
